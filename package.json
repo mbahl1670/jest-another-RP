@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mbahl1670/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
